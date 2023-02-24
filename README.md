@@ -1,4 +1,4 @@
-- 👋 Hi, I am Rowland, a machine learning and deep learning engineer in the making
+- 👋 Hi, I am Rowland, a data scientist with competencies in machine learning, deep learning, computer vision and NLP.
 - 👀 I’m an MBA holder from National Univeristy California interested in Machine learning, Big Data, Deep Learning and Statistics
 - 🌱 I’m currently learning Machine Learning and Deep Learning with Regenesys Business School
 - 💞️ I’m looking to collaborate on projects of Machine Learning and Deep Learning
